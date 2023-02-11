@@ -6,9 +6,12 @@ Uses State Management, theme modification and Gesture Detector
 
 1. Starting Screen
 
-![Screenshot_20230211_173617](https://user-images.githubusercontent.com/93136153/218257184-493fb82e-1775-40ea-b0c3-caee51703b5d.jpg)
+
+![image](https://user-images.githubusercontent.com/93136153/218257318-92c12d8b-4a07-400e-8ab3-89671436b4c7.png)
+
 
 2. Result
 
-![Screenshot_20230211_173652](https://user-images.githubusercontent.com/93136153/218257202-743d6cad-b557-4571-9e96-88b54fceabc8.jpg)
+
+![image](https://user-images.githubusercontent.com/93136153/218257373-f4558d2e-e7c4-4464-9ed0-158640012fed.png)
 
